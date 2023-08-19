@@ -1,5 +1,5 @@
 
-# Project Title
+# A Visual History of Nobel Prize Winners
 
 After a couple of busy weeks, I was finally happy to complete my fourth project provided by DataCamp on the Data Scientist with Python Track. In the previous lessons, we have learned Python Data Science Toolbox (Part 2) and Intermediate Data Visualization with Seaborn. We explored how to use iterators, zip, enumerate, various list and dict comprehensions, and generators. We also went deeper into data visualization using Seaborn, such as regression and residual plots, heatmaps, catplots, lmplots, and various seaborn function parameters. In this project, we did not focus too much on the newly taught material but rather emphasized the basic but often overlooked concept of Data Manipulation algorithms.
 
